@@ -1,4 +1,4 @@
-# 📄 Report – Secure Chat Application (Python Sockets + Crypto)
+#  Secure Chat Application (Python Sockets + Crypto)
 
 ## 1. Objective  
 The goal of this project is to build a *secure chat application* using Python sockets, where two processes (Client ↔ Server) can exchange messages with *confidentiality, integrity, and authentication* guaranteed.  
